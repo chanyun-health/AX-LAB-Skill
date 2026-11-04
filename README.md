@@ -14,6 +14,8 @@ evals/<사례 이름>/graders/        잘 됐는지 판단하는 기준
 
 ## 들어 있는 스킬
 
+- `recap-now`: AI와 나눈 대화를 바탕으로 목표와 문제 정의를 명확히 요약하는 되짚기 스킬
+- `clarify-idea`: 두서없는 생각이나 기획을 구체화하도록 AskUserQuestion으로 알맞은 질문을 던져주는 스킬
 - `witsttcpw`: 막혔을 때 작동할 수 있는 가장 단순한 것부터 만들게 합니다. 이름은 What Is The Simplest Thing That Could Possibly Work의 머리글자입니다.
 
 ## Claude에게 보낼 문장
